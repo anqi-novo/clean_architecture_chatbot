@@ -1,4 +1,3 @@
-```markdown
 # Clean Architecture Chatbot
 
 ## Prerequisites
@@ -83,4 +82,4 @@ EMBEDDINGS_MODEL = "<model_name>"
    After running the app, you should be able to access it by opening a web browser and navigating to `http://localhost:8501`.
 
 With these steps completed, users will be able to run the Streamlit app either using Docker or directly on their own machine.
-```
+
