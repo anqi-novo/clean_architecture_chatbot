@@ -1,0 +1,7 @@
+{
+    "AZURE_OPENAI_KEY": "cbcde5a4cd6e4744a650da4792637789",
+    "AZURE_OPENAI_ENDPOINT": "https://ai-wizard-openai-dev.openai.azure.com/",
+    "CHAT_MODEL": "ai-wizard-gpt-35-turbo",
+    "EMBEDDINGS_MODEL": "ai-wizard-text-embedding-ada-002",
+    "OPENAI_API_VERSION": "2023-05-15"
+}
